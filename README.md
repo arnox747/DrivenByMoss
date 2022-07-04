@@ -10,11 +10,11 @@ I submitted a PR to Moss, but he doesn't own an X-Touch Mini, and has a policy o
 
 I'll only show the image for the device page. What's nice about the mixer is that the individual track colors match the colors of your tracks in Bitwig, so they're easier to correlate and work with.
 
-The device page will show the controls that you have mapped in Bitwig. For instance, selecting Decapitator
+The device page will show the controls that you have mapped in Bitwig. For instance, selecting Decapitator (the way I have it mapped)
 
 ![Devices](img/devices.jpg)
 
- will look like this on tablet, or whatever else you might be using as an OSC device:
+ will look like this on your OSC device:
 
 ![Devices](img/osc_device.jpg)
 
