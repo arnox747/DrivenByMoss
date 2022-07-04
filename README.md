@@ -1,9 +1,9 @@
 # DrivenByMoss - Fork with MCU support for remapping CLICK, SOLO and DEVICE EQ / INST buttons
 
-I submitted a PR to Moss, but he doesn't own an xTouch Mini, and has a policy of not supporting what he doesn't own. Fair enough!
+I submitted a PR to Moss, but he doesn't own an X-Touch Mini, and has a policy of not supporting what he doesn't own. Fair enough!
 
 ### There are two things that this repo offers:
- 1. Ability to remap MCU controller CLICK, SOLO and DEVICE EQ / INST buttons to OPTION, SHIFT, and DEVICE Previous / Next page.
+ 1. The ability to remap MCU controller CLICK, SOLO and DEVICE EQ / INST buttons to OPTION, SHIFT, and DEVICE Previous / Next page (controller restart in Bitwig required - toggle the 'Power' button on the controller pane)
  2. A better-looking (to me) OSC app for Bitwig Mixer and Device.
 
 ## OSC Mixer and Device
@@ -18,24 +18,23 @@ The device page will show the controls that you have mapped in Bitwig. For insta
 
 ![Devices](img/osc_device.jpg)
 
-...and your x-Touch Mini will look like this:
+...and your X-Touch Mini will look like this:
 
 ![Devices](img/pxlxtouchmini.png)
 
-Tweaking the encoders on the Mini will also be reflected everywhere else. I like to map the sensitivity on the Mini to 100, so that the default encoder movements get you there fast, and to 10 when SHIFT is pressed, so that I can be very precise one close to what I want (see the following two pictures). This really speeds up my workflow
+Tweaking the encoders on the Mini will also be reflected everywhere else, as you'd expect.
 
 
-## Configuring the x-Touch Mini
+## Configuring the X-Touch Mini
 
-In Bitwig Controller's page, add the x-Touch Mini as a new MCU - Control Universal, and if you're using this repo controller script, you'll have the X-Touch Mini Profilem, and the option to remap Click, Solo, Eq and Inst buttons.
+In Bitwig's Controllers page, add the X-Touch Mini as a new "MCU - Control Universal", and if you're using this repo's controller script, you'll have the X-Touch Mini profile, and the option to remap Click, Solo, Eq and Inst buttons.
 
-In the X-Touch Mini picture, I'm also showing how I remapped the Drop and Replace buttons in Bitwig (see everything that's underlined). With these button mappings, I find the X-Touch Mini more useful than the Mackie MCU (which I've sold since I got all this working)
+In the X-Touch Mini picture, I'm also showing how I remapped the Drop and Replace buttons in Bitwig (all underlined). With these button mappings, I find the X-Touch Mini more useful and faster to work with than the Mackie MCU (which I've sold since I got all this working)
 
 ![Devices](img/controller_settings.jpg)
 
 
-..and finally here is the sensitivity configuration that enables quick encoder movements, and precise control when the SHIFT button is pressed.
-
+..and a final tip! I like to map the sensitivity on the Mini encoders to 100, so that the default encoder movements get you there fast, and to 10 when SHIFT is pressed, so that I can be very precise one close to what I want (see the following two pictures). This really speeds up my workflow
 
 ![Devices](img/sensitivity.jpg)
 
