@@ -14,7 +14,7 @@ The device page will show the controls that you have mapped in Bitwig. For insta
 
 ![Devices](img/devices.jpg)
 
- will look like this on tablet, or whatever else you might be using to display:
+ will look like this on tablet, or whatever else you might be using as an OSC device:
 
 ![Devices](img/osc_device.jpg)
 
