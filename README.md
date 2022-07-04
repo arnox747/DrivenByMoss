@@ -1,4 +1,4 @@
-# DrivenByMoss - Fork with MCU support for remapping CLICK, SOLO and DEVICE EQ / INST buttons
+# DrivenByMoss - Fork with MCU support, and a new OSC app
 
 I submitted a PR to Moss, but he doesn't own an X-Touch Mini, and has a policy of not supporting what he doesn't own. Fair enough!
 
