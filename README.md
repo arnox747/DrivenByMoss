@@ -1,4 +1,4 @@
-# DrivenByMoss - Fork with MCU support, and a new OSC app
+# MCU X-Touch Mini support, and a new OSC app
 
 I submitted a PR to Moss, but he doesn't own an X-Touch Mini, and has a policy of not supporting what he doesn't own. Fair enough!
 
@@ -6,7 +6,7 @@ I submitted a PR to Moss, but he doesn't own an X-Touch Mini, and has a policy o
  1. The ability to remap MCU controller CLICK, SOLO and DEVICE EQ / INST buttons to OPTION, SHIFT, and DEVICE Previous / Next page (controller restart in Bitwig required - toggle the 'Power' button on the controller pane)
  2. A better-looking (to me) OSC app for Bitwig Mixer and Device.
 
-## OSC Mixer and Device
+## OSC app with Mixer and Plugin/Device pages
 
 I'll only show the image for the device page. What's nice about the mixer is that the individual track colors match the colors of your tracks in Bitwig, so they're easier to correlate and work with.
 
