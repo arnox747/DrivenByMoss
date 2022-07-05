@@ -8,6 +8,8 @@ I submitted a PR to Moss, but he doesn't own an X-Touch Mini, and has a policy o
 
 ## OSC app with Mixer and Plugin/Device pages
 
+The new OSC app is named "BitwigOSC2.tosc" and can be found in the "resources/osc/" subfolder.
+
 I'll only show the image for the device page. What's nice about the mixer is that the individual track colors match the colors of your tracks in Bitwig, so they're easier to correlate and work with.
 
 The device page will show the controls that you have mapped in Bitwig. For instance, selecting Decapitator (the way I have it mapped)
@@ -34,7 +36,7 @@ In the X-Touch Mini picture, I'm also showing how I remapped the Drop and Replac
 ![Devices](img/controller_settings.jpg)
 
 
-..and a final tip! I like to map the sensitivity on the Mini encoders to 100, so that the default encoder movements get you there fast, and to 10 when SHIFT is pressed, so that I can be very precise one close to what I want (see the following two pictures). This really speeds up my workflow
+..and a final tip! I like to map the default sensitivity on the Mini encoders to -10, so that the default encoder movements get there fast, and map slow to -100 (when SHIFT is pressed), so that I can be very precise once close to what I want (see the following two pictures). This really speeds up my workflow
 
 ![Devices](img/sensitivity.jpg)
 
